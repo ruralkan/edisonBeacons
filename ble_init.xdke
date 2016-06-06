@@ -1,0 +1,96 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "ble_init_1.2.0.xdk_bak": {
+        "previousModTime": 1463707341467,
+        "modified": 1463707341467,
+        "seen": true,
+        "name": "ble_init_1.2.0.xdk_bak"
+      },
+      "ble_init_1.2.0.xdke_bak": {
+        "previousModTime": 1463707341467,
+        "modified": 1463707341467,
+        "seen": true,
+        "name": "ble_init_1.2.0.xdke_bak"
+      },
+      "ble_init.xdk": {
+        "previousModTime": 1463707341663,
+        "modified": 1463707341663,
+        "seen": true,
+        "name": "ble_init.xdk"
+      },
+      "ble_init.xdke": {
+        "previousModTime": 1463714620928,
+        "modified": 1463714620928,
+        "seen": true,
+        "name": "ble_init.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1463707341343,
+        "modified": 1463707341343,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1463707341343,
+        "modified": 1463707341343,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1463715180322,
+        "modified": 1463715180322,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1463707341343,
+        "modified": 1463707341343,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1463707341343,
+        "modified": 1463707341343,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1463707341627,
+        "modified": 1463707341627,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "ble_init_1.2.0.xdk_bak": {
+        "previousModTime": 1463715325906
+      },
+      "icon.png": {
+        "previousModTime": 1463715325906
+      },
+      "LICENSE.md": {
+        "previousModTime": 1463715325906
+      },
+      "main.js": {
+        "previousModTime": 1463715325906
+      },
+      "package.json": {
+        "previousModTime": 1463715325906
+      },
+      "README.md": {
+        "previousModTime": 1463715325906
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1463715325906
+      }
+    }
+  }
+}
